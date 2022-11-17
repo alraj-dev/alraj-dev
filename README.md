@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi everyone,
+
+I am Alraj Kabeer, a developer from India.
+
+- I am passionate about coding and Linux
+- Android, Flutter, Python developer (maybe intermediate level!)
+- Currently learning [Vim](https://github.com/iggredible/Learn-Vim)
+- Love webnovel, manga, anime, movies
