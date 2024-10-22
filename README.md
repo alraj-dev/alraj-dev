@@ -1,9 +1,5 @@
-### Hi there 👋
-
-Hi everyone,
-
-I am Alraj Kabeer, a developer from India.
+### Hi, I am Alraj.
 
 - I am passionate about coding and Linux
-- Android, Flutter, Python developer (maybe intermediate level!)
+- Android, iOS
 - Love webnovel, manga, anime, movies
